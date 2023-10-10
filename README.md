@@ -1,3 +1,3 @@
 # Postdoctoral Researcher @ Kings College London
 
-I'm a X X X X
+Working in computational psychiatry and cognitive neuroscience research
