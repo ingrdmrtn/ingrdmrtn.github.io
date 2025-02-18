@@ -1,3 +1,6 @@
-# Postdoctoral Researcher @ Kings College London
+# Ingrid Martin
+**Postdoctoral Researcher | KCL**
 
-Working in computational psychiatry and cognitive neuroscience research
+🧠 Studying learning and thinking in minds and machines
+🎓 PhD @ UCL  
+📄 [Publications](publications.md) | [CV](cv.pdf) | [GitHub](https://github.com/yourusername)
