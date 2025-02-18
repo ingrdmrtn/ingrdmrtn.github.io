@@ -10,3 +10,8 @@ social_links:
     url: https://twitter.com/yourhandle
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=yourID
+navigation:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv/
