@@ -1,6 +1,6 @@
 title: Ingrid Martin
 description: Postdoctoral Researcher | Cognitive Science, NeuroAI & Psychiatry
-theme: jekyll-theme-minimal
+remote_theme: gh-pages-themes/jekyll-paper
 logo: me.JPG  # Add a profile picture
 show_downloads: false  # Hide "Download" button if not needed
 social_links:
