@@ -1,17 +1,18 @@
-# Ingrid Martin  
-#**Postdoctoral Researcher | Cognitive Science | NeuroAI | Computational Psychiatry | 🧠 **  #
+Postdoctoral Researcher | Cognitive Science | NeuroAI | Computational Psychiatry | 🧠 
 📍 Kings College London 
 
 ---
 
 This is <span style="color: blue;">blue text</span> and this is <span style="color: red;">red text</span>.
 
+Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding indivudal differences and psychiatric disorders. To do this I 
+
 
 My research investigates the mechanisms underlying neural oscillations and cognitive function, particularly in psychiatric conditions. I use MEG, computational modeling, and AI-driven analysis to explore how brain networks support cognition and where they become disrupted in disorders. My work spans neuroimaging, machine learning, and computational psychiatry, with a focus on translational applications.
 
 I'm currently a postdoc working with [Toby Wise]([https://thewiselab.org/]) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://thewiselab.org/]) and [Rick Adams]([https://thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
 
-📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin@kcl.ac.uk**
+📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin [at] kcl.ac.uk**
 
 ---
 
@@ -23,15 +24,6 @@ I'm currently a postdoc working with [Toby Wise]([https://thewiselab.org/]) at K
   *Journal or Preprint Server (e.g., bioRxiv, PsyArXiv)*  
   [🔗 DOI / Preprint Link](#)
 
-- **Title of Paper 2**  
-  Your Name, Co-authors  
-  *Journal or Preprint Server*  
-  [🔗 DOI / Preprint Link](#)
-
-- **Title of Paper 3**  
-  Your Name, Co-authors  
-  *Journal or Preprint Server*  
-  [🔗 DOI / Preprint Link](#)
 
 ---
 
