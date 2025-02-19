@@ -10,7 +10,7 @@ Broadly i'm interested in how people think and learn differently, I approach thi
 
 My research investigates the mechanisms underlying neural oscillations and cognitive function, particularly in psychiatric conditions. I use MEG, computational modeling, and AI-driven analysis to explore how brain networks support cognition and where they become disrupted in disorders. My work spans neuroimaging, machine learning, and computational psychiatry, with a focus on translational applications.
 
-I'm currently a postdoc working with [Toby Wise]([https://www.thewiselab.org/]) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://www.thewiselab.org/]) and [Rick Adams]([https://www.thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
+I'm currently a postdoc working with [The Wise Lab](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://www.thewiselab.org/]) and [Rick Adams]([https://www.thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
 
 📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin [at] kcl.ac.uk**
 
