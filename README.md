@@ -4,6 +4,11 @@
 
 ---
 
+This is <span style="color: blue;">blue text</span> and this is <span style="color: red;">red text</span>.
+This is <span style="color: blue;">blue text</span> and this is <span style="color: red;">red text</span>.
+This is <span style="color: blue;">blue text</span> and this is <span style="color: red;">red text</span>.
+
+
 ## 🔬 Research Interests
 - Neural oscillations & cognition
 - AI applications in neuroscience
