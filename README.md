@@ -9,7 +9,7 @@ This is <span style="color: blue;">blue text</span> and this is <span style="col
 
 My research investigates the mechanisms underlying neural oscillations and cognitive function, particularly in psychiatric conditions. I use MEG, computational modeling, and AI-driven analysis to explore how brain networks support cognition and where they become disrupted in disorders. My work spans neuroimaging, machine learning, and computational psychiatry, with a focus on translational applications.
 
-I'm currently a postdoc working with [Toby Wise](https://example.com](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
+I'm currently a postdoc working with [Toby Wise]([https://thewiselab.org/]) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://thewiselab.org/]) and [Rick Adams]([https://thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
 
 📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin@kcl.ac.uk**
 
