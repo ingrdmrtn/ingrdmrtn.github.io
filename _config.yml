@@ -1,17 +1,3 @@
 title: Ingrid Martin
-description: Postdoctoral Researcher | Cognitive Science, NeuroAI & Psychiatry
 theme: jekyll-theme-minimal
 logo: me.JPG  # Add a profile picture
-show_downloads: false  # Hide "Download" button if not needed
-social_links:
-  - name: GitHub
-    url: https://github.com/yourusername
-  - name: Twitter
-    url: https://twitter.com/yourhandle
-  - name: Google Scholar
-    url: https://scholar.google.com/citations?user=yourID
-navigation:
-  - title: Home
-    url: /
-  - title: CV
-    url: /cv/
