@@ -16,7 +16,7 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 ---
 ## 📰 News
 
-<span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px;"><b>June 2025</b></span> – 📢 Organising a workshop on gamification in cognitive and computational neuroscience at RLDM 2025 - see you in Dublin! <a href="https://sites.google.com/view/game-on-rldm-2025/home">Submit</a>!   
+<span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px;"><b>June 2025</b></span> – 📢 Organising a [workshop on gamification in cognitive and computational neuroscience at RLDM 2025](https://sites.google.com/view/game-on-rldm-2025/home) - see you in Dublin!   
 <span style="background-color: #3DDC97; color: #FFFFFF; padding: 3px 6px; border-radius: 5px;"><b>Sept 2024</b></span> – 📝 New preprint on model-based planning deficits and compulsivity <a href="https://osf.io/zp6vk_v1">PsyArXiv</a>!  
   
 ---
