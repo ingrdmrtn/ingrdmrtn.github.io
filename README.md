@@ -35,19 +35,19 @@ Sirichat Sookrud, \*<u>Ingrid M. Martin</u>, Claire Gillan, Toby Wise
 ## **Publications**  
 📚 *Peer-reviewed articles*  
 
-[Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
+[Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)  
 Julia Rodriguez-Sanchez, Hope Oloye, \*Ingrid M. Martin, Daniel Hauke  
 *Journal of Neuroscience 43 (50), 8579-8581*, 2023
 
-[Boosting serotonin increases information gathering by reducing subjective cognitive costs](https://doi.org/10.1523/JNEUROSCI.1416-22.2023)
+[Boosting serotonin increases information gathering by reducing subjective cognitive costs](https://doi.org/10.1523/JNEUROSCI.1416-22.2023)  
 Jochen Michely, \*Ingrid M. Martin, Raymond J. Dolan, Tobias Hauser  
 *Journal of Neuroscience 43 (32), 5848-5855*, 2023
 
-[Serotonin modulates asymmetric learning from reward and punishment in healthy human volunteers](https://doi.org/10.1038/s42003-022-03690-5)
+[Serotonin modulates asymmetric learning from reward and punishment in healthy human volunteers](https://doi.org/10.1038/s42003-022-03690-5)  
 Jochen Michely, Eran Eldar, Alon Erdman, \*Ingrid M. Martin, Raymond J. Dolan   
 *Communications Biology 5 (1), 812*, 2022
 
-[A mechanistic account of serotonin’s impact on mood](https://doi.org/10.1038/s41467-020-16090-2) 
+[A mechanistic account of serotonin’s impact on mood](https://doi.org/10.1038/s41467-020-16090-2)   
 Jochen Michely, Eran Eldar, \*Ingrid M. Martin, Raymond J. Dolan   
 *Nature Communications  5 (1), 812*, 2020
 
