@@ -24,10 +24,10 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 ## **Submitted Manuscripts**  
 📌 *Manuscripts currently under review and preprints*  
 
-**Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
+[Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure](https://osf.io/zp6vk_v1)  
 Sirichat Sookrud, \*<u>Ingrid M. Martin</u>, Claire Gillan, Toby Wise   
 *PsyArXiv*  
-[🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
+
 
 
 ---
