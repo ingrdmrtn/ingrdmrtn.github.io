@@ -2,9 +2,9 @@
 
 ---
 
-Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding indivudal differences and psychiatric disorders. To do this I use a combination of behavioural experiments, computational modelling and machine learning.
+Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding individual differences and psychiatric disorders. To do this I use a combination of behavioural experiments, computational modelling and machine learning.
 
-I am also interested in how cognitive science can be used to make more human-like and human-centric AI, and in issues such as alignment and mechanistic interpretability.
+I am also interested in how cognitive science can be used to make more human-like and human-centric AI, and it's potential use in AI alignment and mechanistic interpretability.
 
 I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on building computational models of repetitive negative thought patterns. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . 
 
