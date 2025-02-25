@@ -30,14 +30,15 @@ Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise
 📚 *Peer-reviewed articles*  
 
 **Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations**
-Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin***, Daniel Hauke  
+
+Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin***, Daniel Hauke 
 *Journal of Neuroscience 43 (50), 8579-8581*  
 [🔗 DOI / Journal Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
-- **Paper Title 2**  
-  Your Name, Co-authors  
-  *Journal Name (Year)*  
-  [🔗 DOI / Journal Link](#)
+**Paper Title 2**  
+Your Name, Co-authors  
+*Journal Name (Year)*  
+[🔗 DOI / Journal Link](#)
 
 - **Paper Title 3**  
   Your Name, Co-authors  
