@@ -19,7 +19,7 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 📌 *Manuscripts currently under review and preprints*  
 
 **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
-Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
+Sirichat Sookrud, **Ingrid Martin**, Claire Gillan, Toby Wise 
 *PsyArXiv*  
 [🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
@@ -30,17 +30,17 @@ Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise
 📚 *Peer-reviewed articles*  
 
 **Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations**
-Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin***, Daniel Hauke.
+Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin**, Daniel Hauke
 *Journal of Neuroscience 43 (50), 8579-8581*  
 [🔗 DOI / Journal Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
 **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
-Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
+Sirichat Sookrud, **Ingrid Martin**, Claire Gillan, Toby Wise 
 *PsyArXiv*  
 [🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
 **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
-Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
+Sirichat Sookrud, **Ingrid Martin**, Claire Gillan, Toby Wise 
 *PsyArXiv*  
 [🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
