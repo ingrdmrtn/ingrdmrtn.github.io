@@ -2,8 +2,6 @@
 
 ---
 
-This is <span style="color: blue;">blue text</span> and this is <span style="color: red;">red text</span>.
-
 Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding indivudal differences and psychiatric disorders. For example why some people engage in increased reptitibe negative thinking such as worry and rumination. To do this I use a combination of behavioural experiments, computational modelling and machine learning.
 
 I am also interested in how cognitive science can be used to make more human-like and human-centric AI, and in issues such as alignment and mechanistic interpretability.
@@ -31,22 +29,22 @@ Sirichat Sookrud, Ingrid M. Martin, Claire Gillan, Toby Wise
 **Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations**  
 Julia Rodriguez-Sanchez, Hope Oloye, Ingrid M. Martin, Daniel Hauke  
 *Journal of Neuroscience 43 (50), 8579-8581*, 2023
-[🔗 DOI / Journal Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
+[🔗 Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
 **Boosting serotonin increases information gathering by reducing subjective cognitive costs**  
 Jochen Michely, Ingrid M. Martin, Raymond J. Dolan, Tobias Hauser  
 *Journal of Neuroscience 43 (32), 5848-5855*, 2023
-[🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
+[🔗 Link](https://doi.org/10.1523/JNEUROSCI.1416-22.2023)
 
 **Serotonin modulates asymmetric learning from reward and punishment in healthy human volunteers**  
 Jochen Michely, Eran Eldar, Alon Erdman, Ingrid M. Martin, Raymond J. Dolan   
 *Communications Biology 5 (1), 812*, 2022
-[🔗 DOI / Preprint Link](https://doi.org/10.1038/s42003-022-03690-5)
+[🔗 Link](https://doi.org/10.1038/s42003-022-03690-5)
 
 **A mechanistic account of serotonin’s impact on mood**  
 Jochen Michely, Eran Eldar, Ingrid M. Martin, Raymond J. Dolan   
 *Nature Communications  5 (1), 812*, 2020
-[🔗 DOI / Preprint Link](https://doi.org/10.1038/s41467-020-16090-2)
+[🔗 Link](https://doi.org/10.1038/s41467-020-16090-2)
 
 ➡️ **[Full List of Publications](cv.md#publications)**  
 
