@@ -2,11 +2,11 @@
 
 ---
 
-Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding indivudal differences and psychiatric disorders. For example why some people engage in increased reptitibe negative thinking such as worry and rumination. To do this I use a combination of behavioural experiments, computational modelling and machine learning.
+Broadly i'm interested in how people think and learn differently, I approach this from an interest in understanding indivudal differences and psychiatric disorders. To do this I use a combination of behavioural experiments, computational modelling and machine learning.
 
 I am also interested in how cognitive science can be used to make more human-like and human-centric AI, and in issues such as alignment and mechanistic interpretability.
 
-I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . 
+I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on building computational models of repetitive negative thought patterns. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . 
 
 📄 **[CV](cv.md)** / 🎓 **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Rq_iPtwAAAAJ&sortby=pubdate)** / 📧 **ingrid.martin [at] kcl.ac.uk** / [BlueSky](ingrdmrtn.bsky.social) / [GitHub](www.github.com)
 
