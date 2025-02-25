@@ -1,4 +1,3 @@
-Postdoctoral Researcher | Cognitive Science | NeuroAI | Computational Psychiatry | 🧠 
 📍 Kings College London 
 
 ---
@@ -10,7 +9,7 @@ Broadly i'm interested in how people think and learn differently, I approach thi
 
 My research investigates the mechanisms underlying neural oscillations and cognitive function, particularly in psychiatric conditions. I use MEG, computational modeling, and AI-driven analysis to explore how brain networks support cognition and where they become disrupted in disorders. My work spans neuroimaging, machine learning, and computational psychiatry, with a focus on translational applications.
 
-I'm currently a postdoc working with [The Wise Lab](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess]([https://www.thewiselab.org/]) and [Rick Adams]([https://www.thewiselab.org/]) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
+I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
 
 📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin [at] kcl.ac.uk**
 
@@ -19,10 +18,10 @@ I'm currently a postdoc working with [The Wise Lab](https://thewiselab.org/) at 
 ## **Submitted Manuscripts**  
 📌 *Manuscripts currently under review and preprints*  
 
-- **Title of Paper 1**  
-  Your Name, Co-authors  
-  *Journal or Preprint Server (e.g., bioRxiv, PsyArXiv)*  
-  [🔗 DOI / Preprint Link](#)
+- **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
+  Sirichat sookrud, **Ingrid Martin**, Claire Gillan, Toby Wise   
+  *PsyArXiv*  
+  [🔗 DOI / Preprint Link]([https://osf.io/zp6vk_v1)
 
 
 ---
