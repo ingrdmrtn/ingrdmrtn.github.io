@@ -16,18 +16,16 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 ---
 ## 📰 News
 
-<table>
-  <tr>
-    <td style="background-color: #FF495C; color: #FFFFFF; padding: 5px 10px; border-radius: 5px; font-weight: bold; text-align: center; width: 100px;">June 2025</td>
-    <td>📢 Organising a <a href="https://sites.google.com/view/game-on-rldm-2025/home" style="color: #FF495C; font-weight: bold;">workshop</a> on gamification in cognitive and computational neuroscience at RLDM 2025 - see you in Dublin!</td>
-  </tr>
-  <tr>
-    <td style="background-color: #3DDC97; color: #FFFFFF; padding: 5px 10px; border-radius: 5px; font-weight: bold; text-align: center; width: 100px;">Sept 2024</td>
-    <td>📝 New preprint on model-based planning deficits and compulsivity <a href="https://osf.io/zp6vk_v1" style="color: #3DDC97; font-weight: bold;">PsyArXiv</a>!</td>
-  </tr>
-</table>
-f="https://osf.io/zp6vk_v1">PsyArXiv</a>!  
-  
+<p>
+  <span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">June 2025</span> <br>
+  📢 Organising a <a href="https://sites.google.com/view/game-on-rldm-2025/home" style="color: #FF495C; font-weight: bold;">workshop</a> on gamification in cognitive and computational neuroscience at RLDM 2025 - see you in Dublin!
+</p>
+
+<p>
+  <span style="background-color: #3DDC97; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">Sept 2024</span> <br>
+  📝 New preprint on model-based planning deficits and compulsivity <a href="https://osf.io/zp6vk_v1" style="color: #3DDC97; font-weight: bold;">PsyArXiv</a>!
+</p>
+
 ---
 
 ## **Submitted Manuscripts**  
