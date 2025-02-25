@@ -1,3 +1,5 @@
 title: Ingrid Martin
 theme: jekyll-theme-minimal
 logo: me.JPG  # Add a profile picture
+style: /assets/css/custom.css
+
