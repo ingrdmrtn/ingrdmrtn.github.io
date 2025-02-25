@@ -20,7 +20,6 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 
 **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
 Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
-
 *PsyArXiv*  
 [🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
@@ -36,51 +35,18 @@ Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin***, Daniel Hauke.
 *Journal of Neuroscience 43 (50), 8579-8581*  
 [🔗 DOI / Journal Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
-**Paper Title 2**  
-Your Name, Co-authors  
-*Journal Name (Year)*  
-[🔗 DOI / Journal Link](#)
+**Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
+Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
+*PsyArXiv*  
+[🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
-- **Paper Title 3**  
-  Your Name, Co-authors  
-  *Journal Name (Year)*  
-  [🔗 DOI / Journal Link](#)
+**Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
+Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise 
+*PsyArXiv*  
+[🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
 ➡️ **[Full List of Publications](cv.md#publications)**  
 
 ---
 
-## **Research Overview**  
-🔬 *Key research topics & approaches*  
-
-- Neural oscillations & cognition  
-- AI applications in neuroscience  
-- Functional connectivity in psychiatry  
-- Computational modeling of psychiatric disorders  
-
-I integrate **MEG analysis**, **machine learning**, and **computational models** to study how brain activity supports cognition and how these processes are disrupted in psychiatric conditions. My work aims to bridge basic neuroscience with clinical applications, leveraging **generative AI methods** for data analysis.
-
----
-
-## **Academic Positions**  
-- **Postdoctoral Researcher** – [Your Institution] *(Year – Present)*  
-- **PhD in Cognitive Science / Neuroscience** – UCL *(Year – Year)*  
-
----
-
-## **Contact**  
-📧 **Email:** your.email@institution.edu  
-🔗 **Website:** [yourusername.github.io](https://yourusername.github.io)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-📄 **GitHub:** [yourusername](https://github.com/yourusername)  
-
----
-
-### **🛠 How This Works**
-- **Your sidebar (handled by Jekyll Minimal Theme)**
-  - Profile picture & name from `_config.yml` (`logo: me.jpg`).
-- **Main content (handled by `README.md`)**
-  - **Bio, research summary, submitted papers, publications, and contact info**.
-
-Would you like any additional sections, such as **talks, collaborations, or projects**? 🚀
 
