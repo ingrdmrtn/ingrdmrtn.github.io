@@ -11,6 +11,13 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 📄 **[CV](cv.md)** / 🎓 **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Rq_iPtwAAAAJ&sortby=pubdate)** / 📧 **ingrid.martin [at] kcl.ac.uk** / [BlueSky](ingrdmrtn.bsky.social) / [GitHub](www.github.com)
 
 ---
+## 📰 News
+
+- <span style="background-color: #ffdfba; padding: 3px 6px; border-radius: 5px;"><b>Feb 2025</b></span> – 📢 Started a new postdoc at <a href="https://example.com">Institution Name</a>!
+- <span style="background-color: #bae1ff; padding: 3px 6px; border-radius: 5px;"><b>Jan 2025</b></span> – 📝 Our new paper on MEG and computational psychiatry is now on <a href="https://example.com">bioRxiv</a>!
+- <span style="background-color: #baffc9; padding: 3px 6px; border-radius: 5px;"><b>Dec 2024</b></span> – 🎤 Gave a talk at <a href="https://example.com">Conference Name</a>!
+  
+---
 
 ## **Submitted Manuscripts**  
 📌 *Manuscripts currently under review and preprints*  
