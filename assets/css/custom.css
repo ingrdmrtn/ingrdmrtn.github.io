@@ -1,6 +1,6 @@
 .page-content {
     max-width: 1500px; /* Increase width (default is ~700px) */
-    width: 90%; /* Responsive width */
+    width: 100%; /* Responsive width */
     margin: auto; /* Center content */
 }
 
