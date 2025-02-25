@@ -15,7 +15,6 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 
 ---
 ## 📰 News
-## 📰 News
 
 <p>
   <span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">June 2025</span> 
