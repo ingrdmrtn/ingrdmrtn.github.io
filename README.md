@@ -22,7 +22,7 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 📌 *Manuscripts currently under review and preprints*  
 
 **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
-Sirichat Sookrud, Ingrid M. Martin, Claire Gillan, Toby Wise   
+Sirichat Sookrud, \*Ingrid M. Martin, Claire Gillan, Toby Wise   
 *PsyArXiv*  
 [🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
@@ -33,22 +33,22 @@ Sirichat Sookrud, Ingrid M. Martin, Claire Gillan, Toby Wise
 📚 *Peer-reviewed articles*  
 
 **Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations**  
-Julia Rodriguez-Sanchez, Hope Oloye, Ingrid M. Martin, Daniel Hauke  
+Julia Rodriguez-Sanchez, Hope Oloye, \*Ingrid M. Martin, Daniel Hauke  
 *Journal of Neuroscience 43 (50), 8579-8581*, 2023
 [🔗 Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
 **Boosting serotonin increases information gathering by reducing subjective cognitive costs**  
-Jochen Michely, Ingrid M. Martin, Raymond J. Dolan, Tobias Hauser  
+Jochen Michely, \*Ingrid M. Martin, Raymond J. Dolan, Tobias Hauser  
 *Journal of Neuroscience 43 (32), 5848-5855*, 2023
 [🔗 Link](https://doi.org/10.1523/JNEUROSCI.1416-22.2023)
 
 **Serotonin modulates asymmetric learning from reward and punishment in healthy human volunteers**  
-Jochen Michely, Eran Eldar, Alon Erdman, Ingrid M. Martin, Raymond J. Dolan   
+Jochen Michely, Eran Eldar, Alon Erdman, \*Ingrid M. Martin, Raymond J. Dolan   
 *Communications Biology 5 (1), 812*, 2022
 [🔗 Link](https://doi.org/10.1038/s42003-022-03690-5)
 
 **A mechanistic account of serotonin’s impact on mood**  
-Jochen Michely, Eran Eldar, Ingrid M. Martin, Raymond J. Dolan   
+Jochen Michely, Eran Eldar, \*Ingrid M. Martin, Raymond J. Dolan   
 *Nature Communications  5 (1), 812*, 2020
 [🔗 Link](https://doi.org/10.1038/s41467-020-16090-2)
 
