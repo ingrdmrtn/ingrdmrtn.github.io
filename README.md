@@ -17,13 +17,13 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 ## 📰 News
 
 <p>
-  <span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">June 2025</span> <br>
-  📢 Organising a <a href="https://sites.google.com/view/game-on-rldm-2025/home" style="color: #FF495C; font-weight: bold;">workshop</a> on gamification in cognitive and computational neuroscience at RLDM 2025 - see you in Dublin!
+  <span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold; white-space: nowrap;">June 2025</span> 
+  <span style="display: inline-block; padding-left: 8px;">📢 Organising a <a href="https://sites.google.com/view/game-on-rldm-2025/home" style="color: #FF495C; font-weight: bold;">workshop</a> on gamification in cognitive and computational neuroscience at RLDM 2025 - see you in Dublin!</span>
 </p>
 
 <p>
-  <span style="background-color: #3DDC97; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">Sept 2024</span> <br>
-  📝 New preprint on model-based planning deficits and compulsivity <a href="https://osf.io/zp6vk_v1" style="color: #3DDC97; font-weight: bold;">PsyArXiv</a>!
+  <span style="background-color: #3DDC97; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold; white-space: nowrap;">Sept 2024</span> 
+  <span style="display: inline-block; padding-left: 8px;">📝 New preprint on model-based planning deficits and compulsivity <a href="https://osf.io/zp6vk_v1" style="color: #3DDC97; font-weight: bold;">PsyArXiv</a>!</span>
 </p>
 
 ---
