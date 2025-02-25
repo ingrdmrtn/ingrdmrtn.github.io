@@ -11,17 +11,17 @@ My research investigates the mechanisms underlying neural oscillations and cogni
 
 I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on [computational models of learning and thinking]. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . My research has involved collaborations across neuroscience, AI, and psychiatry to better understand the neural basis of cognition and mental health.
 
-📄 **[CV](cv.md)** / 🎓 **[Google Scholar](#)** / 📧 **ingrid.martin [at] kcl.ac.uk**
+📄 **[CV](cv.md)** / 🎓 **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Rq_iPtwAAAAJ&sortby=pubdate)** / 📧 **ingrid.martin [at] kcl.ac.uk** / [BlueSky](ingrdmrtn.bsky.social)
 
 ---
 
 ## **Submitted Manuscripts**  
 📌 *Manuscripts currently under review and preprints*  
 
-- **Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
-  Sirichat sookrud, **Ingrid Martin**, Claire Gillan, Toby Wise   
-  *PsyArXiv*  
-  [🔗 DOI / Preprint Link]([https://osf.io/zp6vk_v1)
+**Impaired goal-directed planning in transdiagnostic compulsivity is explained by uncertainty about learned task structure**  
+Sirichat Sookrud, **Ingrid Martin***, Claire Gillan, Toby Wise   
+*PsyArXiv*  
+[🔗 DOI / Preprint Link](https://osf.io/zp6vk_v1)
 
 
 ---
@@ -29,10 +29,10 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 ## **Publications**  
 📚 *Peer-reviewed articles*  
 
-- **Paper Title 1**  
-  Your Name, Co-authors  
-  *Journal Name (Year)*  
-  [🔗 DOI / Journal Link](#)
+**Evidence for a Primary Prior Deficit as a Mechanism of Auditory Hallucinations**
+Julia Rodriguez-Sanchez, Hope Oloye, **Ingrid Martin***, Daniel Hauke  
+*Journal of Neuroscience 43 (50), 8579-8581*  
+[🔗 DOI / Journal Link](https://doi.org/10.1523/JNEUROSCI.1601-23.2023)
 
 - **Paper Title 2**  
   Your Name, Co-authors  
