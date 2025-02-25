@@ -1,16 +1,16 @@
 /* Change default link color */
 a {
-    color: #FF4500; /* Change to your preferred color */
+    color: #49B6FF; /* Change to your preferred color */
     text-decoration: none; /* Removes underline */
 }
 
 /* Change color when hovering over links */
 a:hover {
-    color: #32CD32; /* Green on hover */
-    text-decoration: underline;
+    color: #49B6FF; /* Green on hover */
+    text-decoration: none;
 }
 
 /* Change visited link color */
 a:visited {
-    color: #800080; /* Purple */
+    color: #49B6FF; /* Purple */
 }
