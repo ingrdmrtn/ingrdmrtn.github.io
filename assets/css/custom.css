@@ -1,3 +1,17 @@
+.page-content {
+    max-width: 1000px; /* Increase width (default is ~700px) */
+    width: 90%; /* Responsive width */
+    margin: auto; /* Center content */
+}
+
+@media (max-width: 768px) { /* For mobile devices */
+    .page-content {
+        width: 95%; /* Slightly narrower on small screens */
+    }
+}
+
+
+
 /* Change default link color */
 a {
     color: #49B6FF; /* Change to your preferred color */
