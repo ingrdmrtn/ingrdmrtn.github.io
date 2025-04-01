@@ -11,7 +11,7 @@ I am also interested in how cognitive science can be used to make more human-lik
 
 I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kings College London, working on building computational models of repetitive negative thought patterns. Previously, I completed my PhD at UCL, with [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) and [Rick Adams](https://www.tcplab.org/home) . 
 
-📄 [CV](cv.md) / 🎓 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Rq_iPtwAAAAJ&sortby=pubdate)/ 📧 ingrid.martin [at] kcl.ac.uk / [BlueSky](https://ingrdmrtn.bsky.social) / [GitHub](https://www.github.com)
+📄 [CV]() / 🎓 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Rq_iPtwAAAAJ&sortby=pubdate)/ 📧 ingrid.martin [at] kcl.ac.uk / [BlueSky](https://ingrdmrtn.bsky.social) / [GitHub](https://www.github.com)
 
 ---
 ## 📰 News
