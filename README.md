@@ -15,6 +15,10 @@ I'm currently a postdoc working with [Toby Wise](https://thewiselab.org/) at Kin
 
 ---
 ## 📰 News
+<p>
+  <span style="background-color: #3DDC97; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">July 2025</span> 
+  &nbsp; 📢 I a gave a talk on my PhD work at  <a href="https://meguk.ac.uk/programme/" style="color: #FF495C; font-weight: bold;"> MEG UK 2025 - London </a> 
+</p>
 
 <p>
   <span style="background-color: #FF495C; color: #FFFFFF; padding: 3px 6px; border-radius: 5px; font-weight: bold;">June 2025</span> 
